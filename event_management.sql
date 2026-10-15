@@ -1,5 +1,4 @@
 -- Smart Event Management System
--- MySQL 8.0+
 
 CREATE DATABASE IF NOT EXISTS smart_event_db;
 USE smart_event_db;

@@ -1,7 +1,5 @@
 -- Smart Event Management System
 -- MySQL 8.0+
--- Run this file in MySQL Workbench or the MySQL command line.
--- Note: the DROP TABLE statements reset these project tables when rerun.
 
 CREATE DATABASE IF NOT EXISTS smart_event_db;
 USE smart_event_db;
